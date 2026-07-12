@@ -1,1 +1,2 @@
 # v3.plugin.api// 同步 ID: 3fe2f3f2 @ Wed Jul  8 20:46:59 UTC 2026
+// 同步 ID: f18ece96 @ Sun Jul 12 08:01:18 UTC 2026
